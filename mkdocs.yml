@@ -17,3 +17,6 @@ theme:
   palette:
     primary: blue grey
     accent: purple
+
+docs_dir: markdown
+site_dir: docs
