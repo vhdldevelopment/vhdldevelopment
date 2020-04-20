@@ -1,0 +1,19 @@
+site_name: VHDL Development
+use_directory_urls: false
+
+markdown_extensions:
+  - admonition
+  - codehilite
+
+nav:
+  - Home: index.md
+  - VHDL: VHDL.md
+  - About: about.md
+
+theme:
+  name: material
+  feature:
+    tabs: true
+  palette:
+    primary: blue grey
+    accent: purple
