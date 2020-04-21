@@ -7,7 +7,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - VHDL: VHDL.md
+  - VHDL By Application: VHDL/VHDL By Application.md
   - About: about.md
 
 theme:
@@ -16,7 +16,6 @@ theme:
     tabs: true
   palette:
     primary: blue grey
-    accent: purple
 
 docs_dir: markdown
 site_dir: docs
