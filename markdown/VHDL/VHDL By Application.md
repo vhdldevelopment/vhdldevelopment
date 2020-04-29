@@ -15,7 +15,7 @@ examine the code and the simulated output in greater detail to further your unde
 ## VHDL Modules
 
 ### Combinatorial Blocks
-* [Multiplexer](VHDL Modules/Coming Soon.md)
+* [Multiplexer](VHDL Modules/Multiplexer.md)
 * [Tri-State Buffer](VHDL Modules/Coming Soon.md)
 
 ### Clocked Components and Registers
@@ -31,3 +31,31 @@ examine the code and the simulated output in greater detail to further your unde
 
 ### Clock and Reset Management
 * [Clock Buffer](VHDL Modules/Coming Soon.md)
+
+### Transferring Data Across Clock Domains
+* [Four Phase Handshaking Protocol](VHDL Modules/Coming Soon.md)
+* [Second Phase Handshaking Protocol](VHDL Modules/Coming Soon.md)
+* [One Phase Data Transfer](VHDL Modules/Coming Soon.md)
+
+### To Be Organised
+* [Shift Register](VHDL Modules/Coming Soon.md)
+* [LFSR (Linear Feedback Shift Register)](VHDL Modules/Coming Soon.md)
+* [Arbitary-Sequence Counter](VHDL Modules/Coming Soon.md)
+* [Binary Counter](VHDL Modules/Coming Soon.md)
+* [Decade Counter](VHDL Modules/Coming Soon.md)
+* [Programmable mod-m Counter](VHDL Modules/Coming Soon.md)
+* [Gray Counter](VHDL Modules/Coming Soon.md)
+* [Ring Counter](VHDL Modules/Coming Soon.md)
+* [Decimal Counter](VHDL Modules/Coming Soon.md)
+* [One Segment Code](VHDL Modules/Coming Soon.md)
+* [Pulse Width Modulation Circuit](VHDL Modules/Coming Soon.md)
+* [Pipelines](VHDL Modules/Coming Soon.md)
+* [One Shot Pulse Generator](VHDL Modules/Coming Soon.md)
+* [SRAM Controller](VHDL Modules/Coming Soon.md)
+* [UART Receiver](VHDL Modules/Coming Soon.md)
+* [Square Approximation Circuit](VHDL Modules/Coming Soon.md)
+* [Binary Decoder](VHDL Modules/Coming Soon.md)
+* [Binary Encoder](VHDL Modules/Coming Soon.md)
+* [Priority Encoder](VHDL Modules/Coming Soon.md)
+* [Barrel Shifter](VHDL Modules/Coming Soon.md)
+* [Multiplier](VHDL Modules/Coming Soon.md)

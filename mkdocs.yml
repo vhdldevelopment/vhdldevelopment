@@ -8,6 +8,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - VHDL By Application: VHDL/VHDL By Application.md
+  - My Notes: VHDL/My Notes/My Notes.md
+  - Demo Markdown: Demo.md
   - About: about.md
 
 theme:
